@@ -1,0 +1,7 @@
+Workshop GIT
+<<<<<<< HEAD
+I am beginning to understand Gomycode
+=======
+I am beginning to understand Github
+>>>>>>> fusion
+This text was added originally while in the test branch
